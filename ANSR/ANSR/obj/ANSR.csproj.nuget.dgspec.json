@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeff/Projects/ANSR/ANSR/ANSR.csproj": {}
+    "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj": {}
   },
   "projects": {
-    "/Users/jeff/Projects/ANSR/ANSR/ANSR.csproj": {
+    "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeff/Projects/ANSR/ANSR/ANSR.csproj",
+        "projectUniqueName": "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj",
         "projectName": "ANSR",
-        "projectPath": "/Users/jeff/Projects/ANSR/ANSR/ANSR.csproj",
+        "projectPath": "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj",
         "packagesPath": "/Users/jeff/.nuget/packages/",
-        "outputPath": "/Users/jeff/Projects/ANSR/ANSR/obj/",
+        "outputPath": "/Users/jeff/Projects/ANSR/ANSR/ANSR/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
