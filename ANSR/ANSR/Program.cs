@@ -15,7 +15,7 @@ namespace ANSR
         public static void Main(string[] args)
         {
             var host = CreateWebHostBuilder(args)
-                //.UseUrls("http://*:8899")
+                .UseUrls("http://*:8899")
                 .Build();
 
 
