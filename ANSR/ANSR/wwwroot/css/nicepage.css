@@ -30272,10 +30272,11 @@ a.u-link.u-text-hover-grey-90:hover {
     }
     h5
     {
-        font-size: 0.625rem;
+        font-size: 0.75rem;
         line-height: 1.8;
         margin-top: 20px;
         margin-bottom: 20px;
+        text-decoration: none solid rgb(255, 255, 255);
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
         font-weight: 400;
@@ -30590,10 +30591,10 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 10px}
 .u-footer .u-shape-1 {box-shadow: 0 -6px 8px 0 rgba(128,128,128,0.35); margin-top: 20px}
-.u-footer .u-icon-1 {height: 25px; width: 25px; margin: -63px auto 0}
+.u-footer .u-icon-1 {height: 25px; width: 25px; background-image: none; margin: -63px auto 0}
 .u-footer .u-icon-2 {height: 25px; width: 25px; margin: 30px auto 60px}
-.u-footer .u-icon-3 {height: 64px; width: 64px; margin: 20px auto 0}
-.u-footer .u-icon-4 {height: 64px; width: 64px; margin: 20px auto 0}
+.u-footer .u-icon-3 {height: 64px; width: 64px; background-image: none; margin: 20px auto 0}
+.u-footer .u-icon-4 {height: 64px; width: 64px; background-image: none; margin: 20px auto 0}
 .u-footer .u-image-1 {width: 25px; height: 25px; object-position: 19.48% 50%; margin: 115px 18px 0 auto} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }

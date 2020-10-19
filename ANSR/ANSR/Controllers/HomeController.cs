@@ -45,6 +45,15 @@ namespace ANSR.Controllers
             return View();
         }
 
+        public IActionResult Profile()
+        {
+            return View();
+        }
+
+        public IActionResult TaskCreated()
+        {
+            return View();
+        }
         public IActionResult Analytics()
         {
             return View();
