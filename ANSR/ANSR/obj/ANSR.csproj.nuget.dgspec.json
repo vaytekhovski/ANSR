@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPOSITORY\\ANSR\\ANSR\\ANSR\\ANSR.csproj": {}
+    "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj": {}
   },
   "projects": {
-    "D:\\REPOSITORY\\ANSR\\ANSR\\ANSR\\ANSR.csproj": {
+    "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPOSITORY\\ANSR\\ANSR\\ANSR\\ANSR.csproj",
+        "projectUniqueName": "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj",
         "projectName": "ANSR",
-        "projectPath": "D:\\REPOSITORY\\ANSR\\ANSR\\ANSR\\ANSR.csproj",
-        "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
-        "outputPath": "D:\\REPOSITORY\\ANSR\\ANSR\\ANSR\\obj\\",
+        "projectPath": "/Users/jeff/Projects/ANSR/ANSR/ANSR/ANSR.csproj",
+        "packagesPath": "/Users/jeff/.nuget/packages/",
+        "outputPath": "/Users/jeff/Projects/ANSR/ANSR/ANSR/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/jeff/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }
